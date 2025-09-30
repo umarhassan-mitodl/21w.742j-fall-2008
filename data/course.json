@@ -1,0 +1,65 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ]
+  ],
+  "legacy_uid": "bfb5802c-ec88-9419-c50a-a7682040f0ad",
+  "instructors": {
+    "content": [
+      "c9d6d594-741b-d273-f3d5-d9142067c5ce"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "02fc3448-8627-c861-d327-0c955b200858",
+    "website": "21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008"
+  },
+  "course_title": "Writing About Race: Narratives of Multiraciality",
+  "hide_download": true,
+  "course_description": "In this course we will read essays, novels, memoirs, and graphic texts, and view documentary and experimental films and videos which explore race from the standpoint of the multiracial. Examining the varied work of multiracial authors and filmmakers such as Danzy Senna, Ruth Ozeki, Kip Fulbeck, James McBride and others, we will focus not on how multiracial people are seen or imagined by the dominant culture, but instead on how they represent themselves. How do these authors approach issues of family, community, nation, language and history? What can their work tell us about the complex interconnections between race, gender, class, sexuality, and citizenship? Is there a relationship between their experiences of multiraciality and a willingness to experiment with form and genre? In addressing these and other questions, we will endeavor to think and write more critically and creatively about race as a social category and a lived experience.\n",
+  "department_numbers": [
+    "CMS-W",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.231J",
+  "primary_course_number": "21W.742J",
+  "course_image_thumbnail": {
+    "content": "f1465b40-bf37-2cf6-9cdc-915a8ed91ea3",
+    "website": "21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "cecd308f-0150-4905-abf2-726777167adf",
+  "site_short_id": "21w.742j-fall-2008",
+  "site_url_path": "courses/21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008",
+  "title": "Course Metadata"
+}
